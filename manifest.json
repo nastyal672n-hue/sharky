@@ -1,0 +1,11 @@
+{
+    "display_name": "Shark Image (для Таверны)",
+    "loading_order": 122,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "по задумке Akula (Shark Image 1.7.0), перенос для SillyTavern",
+    "version": "1.0.0",
+    "auto_update": false
+}
