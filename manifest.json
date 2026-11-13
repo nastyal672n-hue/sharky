@@ -1,0 +1,11 @@
+{
+    "display_name": "Sharky 2 🦈",
+    "loading_order": 122,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Sharky",
+    "version": "2.0.0",
+    "auto_update": false
+}
