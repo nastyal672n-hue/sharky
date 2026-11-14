@@ -1,0 +1,11 @@
+{
+  "manifest_version": 1,
+  "display_name": "Shark Image — Tavo UI",
+  "loading_order": 100,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "version": "4.0.0",
+  "author": "Akula — SillyTavern adaptation",
+  "homePage": "https://github.com/nastyal672n-hue/sharky"
+}
